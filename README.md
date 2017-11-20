@@ -1,6 +1,8 @@
 # proyectos
 Repositorio para proyectos realizados.
+
 Información del proyecto llamado Yoga.
+
 Resumen:
 Este proyecto lo he llamado Yoga Style, es una pagina web definida para realizar reservaciones a clases de Yoga, meditación o relajación. Los usuarios pueden registrarse e ingresar al formulario de reserva. 
 
